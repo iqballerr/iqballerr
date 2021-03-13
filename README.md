@@ -1,10 +1,10 @@
 ### Hi there, I'm Iqbal - aka [iqballerr][website] 👋
 
 ## I'm a Software Engineering student at UC Irvine!
-- 🌐 Enjoy open-source programming
-- 🌎 Interested in creating software for a better world
-- 💻 Currently learning new frontend frameworks and web development
-- 🏀 Hobbies include basketball, coding, Anime, and making YouTube videos
+- 🌐 I enjoy open-source programming
+- 🌎 I am nterested in creating software for a better world
+- 💻 I am currently learning new frontend frameworks and web development
+- 🏀 My hobbies include: Basketball, coding, watching anime, and making YouTube videos!
 
 ### Connect with me:
 
