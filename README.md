@@ -5,6 +5,7 @@
 - 🌎 I am interested in creating software for a better world
 - 💻 I am currently learning new frontend frameworks and web development
 - 🏀 My hobbies include: Basketball, coding, watching anime, and making YouTube videos!
+- 📫 Contact me via email: ilodin@uci.edu
 
 ### Connect with me:
 
