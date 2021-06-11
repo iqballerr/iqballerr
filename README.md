@@ -2,7 +2,6 @@
 
 ## I'm a Software Engineering student at UC Irvine!
 - 🌐 I enjoy open-source programming
-- 🌎 I am interested in creating software for a better world
 - 💻 I am currently learning new frontend frameworks and web development
 - 📫 Contact me via email: ilodin@uci.edu
 
